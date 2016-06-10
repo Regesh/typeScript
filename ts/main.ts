@@ -1,5 +1,5 @@
 class Main{
-    constructor(p2:number){
+    constructor(p1:number,p2:number){
         console.log(p2);
     }
 }
